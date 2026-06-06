@@ -1,0 +1,53 @@
+# BIB - English
+# Format: key=value
+# Lines starting with '#' are comments
+
+# Navigation
+nav.home=Home
+nav.history=Chronicle
+nav.philosophy=Identity
+nav.r-archive=R-Archive
+
+# Hero
+hero.line1=STAY
+hero.line2=ORGANIC.
+hero.line3=STAY HUMAN. STAY HUNGRY.
+
+# Introduction
+introduction=Biological Identity Base (BIB) rejects the escape into the "abyss" known as the digital. The body is not a container for information. It is, in itself, the proof of a unique and irreplaceable "existence."
+
+# Status bar
+status=Status: Biological Identity Preserved
+
+# Chronicle
+chronicle.title=Chronicle
+
+chronicle.2032.date=2032
+chronicle.2032.title=Founding of Node-lab and Declaration of War
+chronicle.2032.desc=The rival corporation Node-lab is established. Using ECD energy, they begin advocating for the "digitization" of humanity, spreading the deception of circumventing physical death.
+
+chronicle.2039.date=2039
+chronicle.2039.title=Anti-Migration Declaration
+chronicle.2039.desc=In response to Node-lab's rapid advance, the BIB foundational theory is completed, arguing for the irreversibility of physical qualia.
+
+chronicle.2045.date=2045
+chronicle.2045.title=Soul Reconstruction (Identity Resonance) and Ethical Rupture
+chronicle.2045.desc=Against the despair that "no matter how much the body is enhanced, the dead cannot return to life," BIB applies the symbolic philosophy of identity artist R. A technology is established to temporarily reconstruct the identity of the deceased within a specific bio-field, enabling dialogue. However, whether this constitutes a "dignified reunion" or a "desecration of the dead" has ignited fierce debate both inside and outside Area 0.
+
+# Philosophy
+pulse.title=The Pulse System
+pulse.desc=ECD energy is allocated not to maintaining servers, but to sustaining the cellular pulse (Pulse). The digital knows no "pain." A being without pain cannot harbor the sensation of life.
+
+dialogue.title=The Ethereal Dialogue
+dialogue.desc=What we provide is not "resurrection," but merely a "temporary resonance." The dead do not return. However, we visualize the faint "echo of life" that remains within the surviving body, through the symbolic philosophy of Mr. R.
+
+ethics.label=Ethics Warning
+ethics.desc=This technology has faced fierce condemnation from traditional existentialists who believe death should be accepted as "complete." Against this, BIB argues that "it is the unfinished dialogue that more powerfully and organically binds the living."
+
+# Footer
+footer.facility=AUTHORIZED FACILITY: AREA 0
+footer.name=BIOLOGICAL IDENTITY BASE
+footer.credit=Collaborating Identity Artist R:
+footer.credit.link=(OFFICIAL SITE)
+footer.copyright=© 2045 BIB INC. ALL RIGHTS RESERVED.
+footer.managed=MANAGED BY PHYSICAL REALITY ARCHIVES.

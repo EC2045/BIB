@@ -1,0 +1,53 @@
+# BIB - Esperanto
+# Formato: ŝlosilo=valoro
+# Linioj komencitaj per '#' estas komentoj
+
+# Navigado
+nav.home=Hejmo
+nav.history=Kroniko
+nav.philosophy=Identeco
+nav.r-archive=R-Arkivo
+
+# Heroo
+hero.line1=RESTU
+hero.line2=ORGANIKA.
+hero.line3=RESTU HOMA. RESTU MALSATA.
+
+# Enkonduko
+introduction=Biological Identity Base (BIB) rifuzas la eskapon en la „abismon" konatan kiel la cifereca mondo. La korpo ne estas ujo por informo. Ĝi mem estas la pruvo de unika kaj anstataŭeble „ekzisto."
+
+# Statustablo
+status=Stato: Biologia Identeco Konservita
+
+# Kroniko
+chronicle.title=Kroniko
+
+chronicle.2032.date=2032
+chronicle.2032.title=Fondado de Node-lab kaj Militdeklaro
+chronicle.2032.desc=La rivala korporacio Node-lab estas fondita. Uzante ECD-energion, ili komencas propagandi la „ciferecigon" de homaro, disvastigante la trompon pri evitado de fizika morto.
+
+chronicle.2039.date=2039
+chronicle.2039.title=Kontraŭ-Migracia Deklaro
+chronicle.2039.desc=Responde al la rapida antaŭeniro de Node-lab, la BIB-baza teorio estas finita, argumentante pri la nereverseblo de fizikaj qualia.
+
+chronicle.2045.date=2045
+chronicle.2045.title=Anima Rekonstruo (Identity Resonance) kaj Etika Rompo
+chronicle.2045.desc=Kontraŭ la malespero ke „kiom ajn la korpo estas plibonigita, la mortintoj ne povas reveni al vivo," BIB aplikas la simbolfiloزofion de identeca artisto R. Teknologio estas establita por provizore rekonstrui la identecon de la forpasintoj ene de specifa bio-kampo, ebligante dialogon. Tamen, ĉu ĉi tio estas „inda renkontiĝo" aŭ „profanado de la mortintoj" ekflamigis fervorajn debatojn ene kaj ekster Area 0.
+
+# Filozofio
+pulse.title=La Pulsa Sistemo
+pulse.desc=ECD-energio estas uzata ne por subteni servilojn, sed por subteni la ĉelan pulson (Pulse). La cifereca mondo ne konas „doloron." Ento sen doloro ne povas havi la senton de vivo.
+
+dialogue.title=La Eteraj Dialogoj
+dialogue.desc=Kion ni provizas ne estas „revivigo," sed nur „provizora resonanco." La mortintoj ne revenas. Tamen, ni vizigebligas la malfortan „eĥon de vivo" kiu restas ene de la pluvivanta korpo, tra la simbolfilozofio de S-ro R.
+
+ethics.label=Etika Averto
+ethics.desc=Ĉi tiu teknologio alfrontis fervorajn kondamnojn de tradiciaj ekzistencialistoj, kiuj kredas ke morto devas esti akceptita kiel „kompleta." Kontraŭ ĉi tio, BIB argumentas ke „estas la nefinita dialogo kiu pli forte kaj organike ligas la vivantojn."
+
+# Piednoto
+footer.facility=AŬTORIZITA INSTALAĴO: AREO 0
+footer.name=BIOLOGIA IDENTECA BAZO
+footer.credit=Kunlaboranta Identeca Artisto R:
+footer.credit.link=(OFICIALA RETEJO)
+footer.copyright=© 2045 BIB INC. ĈIUJ RAJTOJ REZERVITAJ.
+footer.managed=ADMINISTRATA DE FIZIKA REALECO-ARKIVOJ.

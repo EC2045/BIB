@@ -1,0 +1,53 @@
+# BIB - 日本語
+# フォーマット: キー=値
+# '#' から始まる行はコメント
+
+# ナビゲーション
+nav.home=Home
+nav.history=Chronicle
+nav.philosophy=Identity
+nav.r-archive=R-Archive
+
+# ヒーロー
+hero.line1=STAY
+hero.line2=ORGANIC.
+hero.line3=STAY HUMAN. STAY HUNGRY.
+
+# イントロダクション
+introduction=Biological Identity Base (BIB) は、デジタルという名の「深淵」への逃避を拒絶します。肉体は情報の入れ物ではありません。それ自体が唯一無二の、交換不可能な「実存」の証明です。
+
+# ステータスバー
+status=Status: Biological Identity Preserved
+
+# クロニクル
+chronicle.title=Chronicle
+
+chronicle.2032.date=2032
+chronicle.2032.title=Node-lab の設立と宣戦
+chronicle.2032.desc=敵対企業 Node-lab が設立。ECDエネルギーを用いた人類の「データ化」を推奨し、物理的死を回避するという欺瞞を広め始める。
+
+chronicle.2039.date=2039
+chronicle.2039.title=反・マイグレーション声明
+chronicle.2039.desc=Node-lab の急進に対し、肉体的クオリアの不可逆性を訴える BIB 基礎理論が完成。
+
+chronicle.2045.date=2045
+chronicle.2045.title=魂の再構成（Identity Resonance）と倫理的断絶
+chronicle.2045.desc=「いくら肉体を強化しても、死んだ者が生き返るわけではない」という絶望に対し、BIBは同一アート作家Rの記号哲学を応用。特定のバイオ・フィールド下で、故人のアイデンティティを一時的に再構成し、対話を可能にする技術を確立した。しかし、これを「尊厳ある再会」とするか「死者への冒涜」とするか、Area 0 内外で激しい論争が巻き起こっている。
+
+# フィロソフィー
+pulse.title=The Pulse System
+pulse.desc=ECDエネルギーをサーバーの維持ではなく、細胞の脈動（Pulse）の維持に充当します。デジタルには「痛み」がありません。痛みのない存在に、生の実感は宿りません。
+
+dialogue.title=The Ethereal Dialogue
+dialogue.desc=我々が提供するのは「蘇生」ではなく、あくまで「一時的な共鳴」です。死者が戻ることはありません。しかし、残された肉体の中に微かに残る「生の残響」を、R氏の記号哲学によって可視化します。
+
+ethics.label=Ethics Warning / 倫理警告
+ethics.desc=この技術は、死を「完結したもの」として受け入れるべきだとする伝統的な実存主義者から、激しい弾劾を受けています。BIBはこれに対し、「未完の対話こそが、生者をより強く有機的に繋ぎ止める」と主張しています。
+
+# フッター
+footer.facility=AUTHORIZED FACILITY: AREA 0
+footer.name=BIOLOGICAL IDENTITY BASE
+footer.credit=協力同一アート作家R:
+footer.credit.link=(OFFICIAL SITE)
+footer.copyright=© 2045 BIB INC. ALL RIGHTS RESERVED.
+footer.managed=MANAGED BY PHYSICAL REALITY ARCHIVES.
